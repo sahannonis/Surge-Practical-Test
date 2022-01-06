@@ -15,7 +15,7 @@ To run the backend
 
 # Database
 
-The database file for is also included in the repo, with one table for users to demostrate the given tasks.
+The database file named "surgepractical.sql" is also included in the repo, with one table for users to demostrate the given tasks.
 Name the Database "surgepractical" and import the database file to it, MySQL was used for the database. localhost/myphpadmin
 
 Postman was used in testing the API
